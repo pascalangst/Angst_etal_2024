@@ -1,2 +1,2 @@
-# Angst_etal_2024
-Scripts used in Angst et al. (2024)
+## Repository containing scripts and materials related to the [manuscript]() titled: Strong bottlenecks constrain adaptive coevolution in a host–parasite metapopulation  
+
